@@ -4,26 +4,29 @@
 # If the user enters anything other than a valid number catch it with a try/except and put out an appropriate message and ignore the number. 
 # Enter 7, 2, bob, 10, and 4 and match the output below.
 
-largest = -99999999999999999999
-smallest = 99999999999999999999
+largest = None
+smallest = None
 numbers = []
 
-user = input("Enter a number: ").lower()
-while user != 'done':
+num = input("Enter a number: ")
+while num.lower() != 'done':
     try:
-        num = int(user)
-        numbers.append(num)
+        numbers.append(int(num))
     except:
         print("Invalid input")
-    user = input("Enter a number: ").lower()
+    num = input("Enter a number: ")
         
 for n in numbers:
     # Find Max
-    if n >= largest:
+    if largest is None:
+        largest = n
+    elif n >= largest:
         largest = n
 
     # Find Min
-    if n <= smallest:
+    if smallest is None:
+        smallest = n
+    elif n <= smallest:
         smallest = n
             
 print(f'Maximum is {largest}')
