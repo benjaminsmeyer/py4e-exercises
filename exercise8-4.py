@@ -6,6 +6,15 @@
 # When the program completes, sort and print the resulting words in alphabetical order.
 # You can download the sample data at http://www.py4e.com/code3/romeo.txt
 
+##########################################################################################################
+# fname = input("Enter file name: ")
+# fh = open(fname)
+# lst = list()
+# for line in fh:
+# print(line.rstrip())
+##########################################################################################################
+
+
 filename = input("Enter file name: ")
 filehandler = open(filename)
 contentList = list()
