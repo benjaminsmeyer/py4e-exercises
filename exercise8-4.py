@@ -14,7 +14,6 @@
 # print(line.rstrip())
 ##########################################################################################################
 
-
 filename = input("Enter file name: ")
 filehandler = open(filename)
 contentList = list()
