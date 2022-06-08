@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abf49f54-44ce-41db-b682-cf563301c3de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercise1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise10-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise2-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise3-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise4-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise6-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise7-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise8-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise9-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mbox-short.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex_sum_1556844.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex_sum_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../romeo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket1.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2AFzHMMH1XPnRs01jswzYpIUuPL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abf49f54-44ce-41db-b682-cf563301c3de" name="Changes" comment="" />
+      <created>1654620033935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654620033935</updated>
+      <workItem from="1654620037967" duration="44000" />
+    </task>
+    <servers />
+  </component>
+</project>
